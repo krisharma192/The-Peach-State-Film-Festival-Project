@@ -1,9 +1,14 @@
 # Group Information
 Group A-5
+
 Group Leader - Krish Sharma
+
 Conceptual Modeler - Winston Chung
+
 Database Designer - Nila Karunakaran
+
 Data Wrangler - Malak Hamid
+
 SQL Writer - Jude Zekra
 
 # The-Peach-State-Film-Festival-Project

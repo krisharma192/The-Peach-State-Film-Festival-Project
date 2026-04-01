@@ -1,4 +1,11 @@
-# The-Peach-State-Film-Festival-Project
+# Group Information
+Group A-5
+Group Leader - Krish Sharma
+Conceptual Modeler - Winston Chung
+Database Designer - Nila Karunakaran
+Data Wrangler - Malak Hamid
+SQL Writer - Jude Zekra
+
 # The-Peach-State-Film-Festival-Project
 The Peach State Film Festival (PSFF), a week-long film festival held at multiple cinemas across Atlanta, is planning and implementing a database to handle the main aspects of their business, such as the films submitted for the festival, the timing of film screenings, customer reservations, cinema and auditoriums, as well as assigning shifts to the many different volunteers. The business rules for the film submissions and screenings include: 
 - a film can be in only one category, (un-identifying 1 to many relationship)

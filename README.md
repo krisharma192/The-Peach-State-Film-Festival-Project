@@ -37,6 +37,13 @@ New features (extensions) were added to improve the system in general. Some feat
 <img width="728" height="687" alt="Screenshot 2026-04-06 at 4 01 30 PM" src="https://github.com/user-attachments/assets/0b1e2ab9-0b4d-44e2-b3ca-6e969a967f08" />
 <img width="730" height="404" alt="Screenshot 2026-04-06 at 4 01 51 PM" src="https://github.com/user-attachments/assets/01576264-bc16-4651-b1ce-f4883b7789cd" />
 
+# Queries 
+1. Query 1 lists the film ID, country of origin, and run time of films whose directors have won the award "Best Leadership Award." Ordered by count in descending order.
+<img width="828" height="595" alt="image" src="https://github.com/user-attachments/assets/0da58ca9-ae71-4dc2-a763-bab2cf022873" />
+
+Query 1 allows the PSFF to gain insight into trends of award-winning directors and the choices do they make in film length. If longer runtimes correlate with winning the most prestigious awards, this finding could help directors in choosing future film lengths. This is especially true in the modern world, where attention spans are constantly declining. 
+
+
 
 
 

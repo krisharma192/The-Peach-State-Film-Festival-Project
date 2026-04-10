@@ -49,6 +49,14 @@ Query 1 allows the PSFF to gain insight into trends of award-winning directors a
 
 Query 2 allows managers to identify which volunteers are staffing two of the most critical guest-facing roles at the festival (ushers and ticketing). These volunteers tend to be most in contact with the attendees, making it essential for managers to know what kind of training they have and to keep up with them to ensure customer experience is excellent.
 
+3. Query 3 lists the menu ID, allergens, and nutritional information for each orginal/standard menu item side by side its counterpart menu item. This query specifically looks at menus containing gluten, ordered by menu ID.
 
+<img width="1165" height="500" alt="image" src="https://github.com/user-attachments/assets/53164435-7f37-4593-9826-fe01b588e569" />
 
+Query 3 allows managers to directly compare allergens and the nutritional profile of gluten-containing menu items against their matched alternatives. Accommodating guests with dietary restrictions like gluten is essential for guest safety and satisfaction. This view allows managers to see if their offerings are sufficient or whether they need to improve their offerings and make smarter menu planning choices.
 
+4. This query lists the screening room ID, venue name, seating capacity, close capition availability, and ADA accessibility status for all screening rooms that do not offer ADA accessibility, ordered by seating capacity.
+
+<img width="858" height="623" alt="image" src="https://github.com/user-attachments/assets/9fa82176-9903-4c97-8356-bee7c7e37af4" />
+
+This allows the managers at the PSFF to identify which screening rooms are not ADA-compliant. This is critical in complying with legal standards whilst also ensuring all attendees are appropriately accommodated. It also helps identify where to begin making upgrades to screening rooms.

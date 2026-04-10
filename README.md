@@ -24,8 +24,7 @@ New features (extensions) were added to improve the system in general. Some feat
 
 # Data Model 
 ## Explanation of Data Model
-<img width="1465" height="1050" alt="Peach State_Updated" src="https://github.com/user-attachments/assets/83305e97-01b4-4c19-ad13-7b03ec472f3a" />
-
+<img width="1465" height="1050" alt="Peachstate_Updated" src="https://github.com/user-attachments/assets/6613f3fe-43e7-4485-8e54-725dc9456459" />
 
 # Data Dictionary
 <img width="732" height="581" alt="Screenshot 2026-04-06 at 3 58 57 PM" src="https://github.com/user-attachments/assets/3287b5e0-3f5e-47c2-a067-e08e06718255" />

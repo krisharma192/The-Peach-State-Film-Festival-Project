@@ -43,8 +43,11 @@ New features (extensions) were added to improve the system in general. Some feat
 
 Query 1 allows the PSFF to gain insight into trends of award-winning directors and the choices do they make in film length. If longer runtimes correlate with winning the most prestigious awards, this finding could help directors in choosing future film lengths. This is especially true in the modern world, where attention spans are constantly declining. 
 
+2. Query 2 lists the volunteer role, first name, last name, and training requirements for all volunteers assigned as either an Usher or Ticketing volunteer. 
 
+<img width="838" height="633" alt="image" src="https://github.com/user-attachments/assets/68c6885f-ac7f-4b09-a179-6a04ec1ee4ff" />
 
+Query 2 allows managers to identify which volunteers are staffing two of the most critical guest-facing roles at the festival (ushers and ticketing). These volunteers tend to be most in contact with the attendees, making it essential for managers to know what kind of training they have and to keep up with them to ensure customer experience is excellent.
 
 
 

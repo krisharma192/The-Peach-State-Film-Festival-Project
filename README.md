@@ -38,6 +38,17 @@ New features (extensions) were added to improve the system in general. Some feat
 <img width="730" height="404" alt="Screenshot 2026-04-06 at 4 01 51 PM" src="https://github.com/user-attachments/assets/01576264-bc16-4651-b1ce-f4883b7789cd" />
 
 # Queries 
+| Feature | Query 1 | Query 2 | Query 3 | Query 4 | Query 5 | Query 6 | Query 7 | Query 8 | Query 9 | Query 10 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Multiple Table Join | X | X | X | X | X | X | | X | X | X |
+| Subquery | | X | | | | X | | | | |
+| GROUP BY | X | | | | X | X | X | X | X | |
+| GROUP BY with HAVING | | | | | X | | | | | |
+| Multi Condition WHERE | | X | X | X | | | X | | | X |
+| Built In Functions | X | | | | X | X | X | X | X | |
+| REGEXP | | | X | | | | | | | |
+| NOT IN | | | | | | X | | | | |
+
 1. Query 1 lists the film ID, country of origin, and run time of films whose directors have won the award "Best Leadership Award." Ordered by count in descending order.
 <img width="828" height="595" alt="image" src="https://github.com/user-attachments/assets/0da58ca9-ae71-4dc2-a763-bab2cf022873" />
 

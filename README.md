@@ -44,7 +44,7 @@ New features (extensions) were added to improve the system in general. Some feat
 | Subquery | | | | | | | X | | | |
 | GROUP BY | X | | | | X | X | | X | X | |
 | GROUP BY with HAVING | | | | | X | | | | | |
-| Multi Condition WHERE | | | | X | | | X | | | X |
+| Multi Condition WHERE | | | | | | | | | | X |
 | Built In Functions | X | | | | X | X | | X | X | |
 | REGEXP | | | X | | | | | | | |
 | NOT IN | | | | | | | X | | | |

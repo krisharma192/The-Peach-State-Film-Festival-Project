@@ -60,3 +60,39 @@ Query 3 allows managers to directly compare allergens and the nutritional profil
 <img width="858" height="623" alt="image" src="https://github.com/user-attachments/assets/9fa82176-9903-4c97-8356-bee7c7e37af4" />
 
 This allows the managers at the PSFF to identify which screening rooms are not ADA-compliant. This is critical in complying with legal standards whilst also ensuring all attendees are appropriately accommodated. It also helps identify where to begin making upgrades to screening rooms.
+
+5. Query 5 lists the customer ID, first name, last name, and total number of reservations for customers who have made at least one reservation, ordered by reservation count in descending order.
+
+<img width="748" height="636" alt="image" src="https://github.com/user-attachments/assets/53a62fb3-ea01-4c05-9adb-6a5e64908248" />
+
+Query 5 allows managers to identify their most active customers and thus develop a loyalty reward system. Managers can also use this data to target members for VIP upgrades and special promotions, encouraging continued repeat attendance.
+
+6. Query 6 lists each customer's ID, first name, last name, total number of reservations made, and the average number of seats booked per reservation, ordered by reservation count descending.
+
+<img width="994" height="637" alt="image" src="https://github.com/user-attachments/assets/8ca0088c-32ec-4756-8f86-992cbd5ba12b" />
+
+Query 6 allows the PSFF to track group booking behavior and plan pricing strategies and availability. Further, managers can better anticipate staffing needs and revenue expectations for each screening.
+
+7. Query 7 lists all customers who have not checked into any reservation, ordered by customer ID
+
+<img width="963" height="637" alt="image" src="https://github.com/user-attachments/assets/71bc0634-5325-4b0a-a62b-1ab9b67fc365" />
+
+Query 7 allows the PSFF marketing division to track customers who have not attended any screenings. These customers could be targeted with promotional incentives to begin attending screenings. This would make marketing efforts more efficient by targeting those who have not yet attended a screening.
+
+8. Query 8 lists each venue name and the total number of distinct shifts scheduled at each venue, ordered by shift count
+
+<img width="509" height="622" alt="image" src="https://github.com/user-attachments/assets/8fc5a324-ba47-4392-9eaa-f9c891318fe3" />
+
+Query 8 allows managers to pinpoint how much staffing each venue needs. The PSFF can use this to ensure adequate coverage, especially during busier peak seasons and to plan for future festivals.
+
+Query 9 lists each volunteer's ID, first name, last name, training requirements, and the number of distinct venue locations they are assigned to volunteer at. Ordered by number of venues worked in descending order.
+
+<img width="895" height="642" alt="image" src="https://github.com/user-attachments/assets/6bce36f6-e40d-40d6-a2b7-2e94c85018f0" />
+
+Query 9 allows the PSFF to see which volunteers are being spread across multiple venues and which are only covering one venue. Volunteers who are working across multiple venues could be more prone to burning out and not doing their best while being at the venue. Further, those who aren't at multiple venues could be asked to pick up shifts that include one more venue to spread the workload amongst those who are currently in 3 venues. Further, the training requirement part gives insight into what role they would be playing at each venue.
+
+10. Query 10 lists all customers who checked into a reservation between March 1st, 2025 and March 4th, 2025.
+
+<img width="680" height="637" alt="image" src="https://github.com/user-attachments/assets/4c2b622e-2cc5-4f2c-8278-6a253573ff7b" />
+
+Query 10 allows the PSFF to track opening festival attendance and check-in patterns. Managers using this can analyze how bust the opening days are and assess staffing needs for future festival opening days. It also gives insight to what kind of customers are willing to attend during the earlier days of the event after researching the customer. 
